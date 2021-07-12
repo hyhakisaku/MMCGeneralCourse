@@ -55,13 +55,18 @@ border-style:solid;
 }
 
 .btn_out {
-
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
 display:inline-block;
 vertical-align:top;
 
 }
 
 .btn_home {
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
 margin:10px;
 display:inline-block;
 vertical-align:top;
@@ -100,6 +105,9 @@ box-shadow: 3px 3px 3px  #d06f79;
 }
 
 .btn_contribution {
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
 font-size: 20px;
 font-weight: bold;
 line-height: 28px;
