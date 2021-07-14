@@ -36,6 +36,7 @@ function d05() {window.location.href="n04_xin/d05.html";}
 function d06() {window.location.href="n04_xin/d06.html";} 
 function d07() {window.location.href="n04_xin/d07.html";} 
 function d08() {window.location.href="n04_xin/d08.html";} 
+function d09() {window.location.href="n04_xin/d09.html";} 
 function e01() {window.location.href="n05_xuanxiu/e01.html";} 
 function e02() {window.location.href="n05_xuanxiu/e02.html";} 
 function f01() {window.location.href="n06_tiyu/f01.html";} 
