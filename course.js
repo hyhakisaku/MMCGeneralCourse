@@ -18,6 +18,7 @@ function b05() {window.location.href="n02_di/b05.html";}
 function b06() {window.location.href="n02_di/b06.html";} 
 function b07() {window.location.href="n02_di/b07.html";} 
 function b08() {window.location.href="n02_di/b08.html";} 
+function b09() {window.location.href="n02_di/b09.html";} 
 function c01() {window.location.href="n03_ren/c01.html";} 
 function c02() {window.location.href="n03_ren/c02.html";} 
 function c03() {window.location.href="n03_ren/c03.html";} 
