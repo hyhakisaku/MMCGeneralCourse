@@ -53,3 +53,4 @@ function g08() {window.location.href="n07_yuyan/g08.html";}
 function g09() {window.location.href="n07_yuyan/g09.html";} 
 function g10() {window.location.href="n07_yuyan/g10.html";} 
 function g11() {window.location.href="n07_yuyan/g11.html";} 
+function h01() {window.location.href="n08_other/h01.html";} 
