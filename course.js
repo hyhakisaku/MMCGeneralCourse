@@ -10,6 +10,7 @@ function a08() {window.location.href="n01_tian/a08.html";}
 function a09() {window.location.href="n01_tian/a09.html";} 
 function a10() {window.location.href="n01_tian/a10.html";} 
 function a11() {window.location.href="n01_tian/a11.html";} 
+function a12() {window.location.href="n01_tian/a12.html";} 
 function b01() {window.location.href="n02_di/b01.html";} 
 function b02() {window.location.href="n02_di/b02.html";} 
 function b03() {window.location.href="n02_di/b03.html";} 
