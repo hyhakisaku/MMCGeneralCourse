@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />
+<title>易經與人生</title>
+<link rel="stylesheet" type="text/css" href="everyclass.css"/>
+<script type="text/javascript" src="everyclass.js"></script>
+</head>
+<body style="margin:0px; background-color:#eeeeee;">
+<div id="a01_frame">
+<form method="post" action="eceryclass.js">
+
+<p><label class="label_title">易經與人生<br></label></p>
+<p><label class="label_info">天領域｜蕭旭府<br></label></p>
+<p><label class="label_comment"><b>1092｜4星｜甜度8｜涼度4｜94分</b><br><br>期中、期末考試，出席率(?) Zuvio答題<br>對易經有興趣可修，但不涼，要背的東西滿多的。是有卜卦教學，但還是要懂卦義嘛，你說是不是呢，所以上課加減聽，會考。有背就會甜。<br></label> </p>
+
+<p>
+<label class="btn_a01"> 
+<input type="button" id="btn_home" value="回首頁" onclick="home(); "/>
+</label>
+</p>
+
+</form>
+</div>
+</body>
+</html>
